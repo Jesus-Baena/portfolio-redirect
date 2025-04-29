@@ -15,7 +15,7 @@ A minimalist redirect landing page featuring animated particles and a countdown 
 - [particles.js](https://vincentgarreau.com/particles.js/) (background animation)
 
 ## 📷 Demo
-_(Add a screenshot or GIF if you want later)_
+![demo](https://github.com/user-attachments/assets/daca0337-7f57-4f51-9087-32f17d858a7f)
 
 ## 🛠 How to Use
 1. Clone or download this repository.
